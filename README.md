@@ -3,13 +3,18 @@
 This repository holds the MuseScore source for worship songs written by Andy
 Clapper.  We hope you enjoy them.
 
+Most of the songs are also available through
+[SongSelect](https://songselect.ccli.com/) and have an associated
+[CCLI](https://ccli.com/] number.  If you use SongSelect, it is very helpful if
+you can report the songs when you use them.
+
 ## Licensing
 
 The songs are made available under a Creative Commons [Attribution-ShareAlike
 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 The following is a summary of (and not a substitute for) the full text of the
-license provided in the [README](README) file.
+license provided in the [LICENSE](LICENSE) file.
 
 ### You are free to:
 
